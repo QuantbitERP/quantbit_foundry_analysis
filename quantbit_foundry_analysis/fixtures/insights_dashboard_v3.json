@@ -1,0 +1,344 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"6fec47f0ep\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"anc0xhv0\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0g2vsa84ik\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"ganmjbdw\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"cfp3ui5hhv\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"1mggqjkj\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"4xcksktt\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7b09fl63hk\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"dtn2j5zl\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fc33c78ik1\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"ae8lwr52\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fsknfdvcbt\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"5lzdrnvd\",\n   \"moved\": false,\n   \"w\": 11,\n   \"x\": 5,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"edal9a4e6d\",\n  \"layout\": {\n   \"h\": 10,\n   \"i\": \"1ffucia3\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ja6mqmdk\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"c8xqa3vu\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`company`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`company`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`company`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`company`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`company`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`company`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"3651hqk9\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`posting_date`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`transaction_date`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`posting_date`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`posting_date`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`posting_date`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`posting_date`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`posting_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"qpdhyg6.\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`fiscal_year`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hoch48u7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`is_internal_customer`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`internal_customer`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "6fec47f0ep",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "0g2vsa84ik",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "cfp3ui5hhv",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "0emppepctr",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "7b09fl63hk",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "fc33c78ik1",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "fsknfdvcbt",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "edal9a4e6d",
+    "parent": "a0k493n7g1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-08 12:00:04.446920",
+  "name": "a0k493n7g1",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/a0k493n7g1-preview.jpeg?2c24",
+  "read_only": false,
+  "share_link": null,
+  "title": "CEO Dashboard - Sales",
+  "vertical_compact_layout": 0,
+  "workbook": "3"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"jloagcjt\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"1ghcfs8mt7\": \"`03vhahjhqm`.`company`\",\n   \"3lrp2ipcqd\": \"`09o8gc8vfp`.`company`\",\n   \"5n3iip6krm\": \"`c99kaq9sit`.`company`\",\n   \"8ir7jdc3q7\": \"`b9fr8focfa`.`company`\",\n   \"8krbcmh4ta\": \"`14u65g8619`.`company`\",\n   \"9ia9msrkpk\": \"`c4fsr2glti`.`company`\",\n   \"9jr5k2f785\": \"`94n64uc234`.`company`\",\n   \"fhdj4qfb25\": \"`c99kaq9sit`.`company`\",\n   \"fm6891u2l6\": \"`d1ppp2m1vt`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"aq6ihe66\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"chart\": \"5n3iip6krm\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"jh01apqw\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3lrp2ipcqd\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"3he25dcr\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 5,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fm6891u2l6\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"gk1qmew7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 10,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"1ghcfs8mt7\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"8cxuh69r\",\n   \"moved\": false,\n   \"w\": 7,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"8ir7jdc3q7\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"lmksnihe\",\n   \"moved\": false,\n   \"w\": 7,\n   \"x\": 7,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fhdj4qfb25\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"l9ojz0am\",\n   \"moved\": false,\n   \"w\": 14,\n   \"x\": 0,\n   \"y\": 10\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9ia9msrkpk\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"40lq8rux\",\n   \"moved\": false,\n   \"w\": 14,\n   \"x\": 0,\n   \"y\": 18\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9jr5k2f785\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"9qj8fo4d\",\n   \"moved\": false,\n   \"w\": 14,\n   \"x\": 0,\n   \"y\": 25\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"8krbcmh4ta\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"m41lrw08\",\n   \"moved\": false,\n   \"w\": 14,\n   \"x\": 0,\n   \"y\": 33\n  },\n  \"type\": \"chart\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"6razkt0r\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"1ghcfs8mt7\": \"`03vhahjhqm`.`posting_date`\",\n   \"3lrp2ipcqd\": \"`09o8gc8vfp`.`transaction_date`\",\n   \"5n3iip6krm\": \"`c99kaq9sit`.`posting_date`\",\n   \"8ir7jdc3q7\": \"`b9fr8focfa`.`transaction_date`\",\n   \"8krbcmh4ta\": \"`14u65g8619`.`order_date`\",\n   \"9ia9msrkpk\": \"`c4fsr2glti`.`month`\",\n   \"9jr5k2f785\": \"`94n64uc234`.`posting_date`\",\n   \"fhdj4qfb25\": \"`c99kaq9sit`.`posting_date`\",\n   \"fm6891u2l6\": \"`d1ppp2m1vt`.`transaction_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"lfzsf2kr\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 7,\n   \"y\": 0\n  },\n  \"links\": {\n   \"1ghcfs8mt7\": \"`03vhahjhqm`.`fiscal_year`\",\n   \"3lrp2ipcqd\": \"`09o8gc8vfp`.`fiscal_year`\",\n   \"5n3iip6krm\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"8ir7jdc3q7\": \"`b9fr8focfa`.`fiscal_year`\",\n   \"8krbcmh4ta\": \"`14u65g8619`.`fiscal_year`\",\n   \"9ia9msrkpk\": \"`c4fsr2glti`.`fiscal_year`\",\n   \"9jr5k2f785\": \"`94n64uc234`.`fiscal_year`\",\n   \"fhdj4qfb25\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"fm6891u2l6\": \"`d1ppp2m1vt`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"j08e69k.\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 10,\n   \"y\": 0\n  },\n  \"links\": {\n   \"1ghcfs8mt7\": \"`03vhahjhqm`.`is_internal_customer`\",\n   \"3lrp2ipcqd\": \"`09o8gc8vfp`.`is_internal_customer`\",\n   \"5n3iip6krm\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"8ir7jdc3q7\": \"`b9fr8focfa`.`is_internal_customer`\",\n   \"8krbcmh4ta\": \"`14u65g8619`.`is_internal_customer`\",\n   \"9ia9msrkpk\": \"`c4fsr2glti`.`is_internal_customer`\",\n   \"9jr5k2f785\": \"`94n64uc234`.`is_internal_customer`\",\n   \"fhdj4qfb25\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"fm6891u2l6\": \"`d1ppp2m1vt`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "5n3iip6krm",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "3lrp2ipcqd",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "fm6891u2l6",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "1ghcfs8mt7",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "8ir7jdc3q7",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "fhdj4qfb25",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "9ia9msrkpk",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "9jr5k2f785",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "8krbcmh4ta",
+    "parent": "27adsmtgfa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-08 12:35:15.318991",
+  "name": "27adsmtgfa",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/27adsmtgfa-preview.jpeg?538b",
+  "read_only": false,
+  "share_link": null,
+  "title": "MD Dashboard - Sales",
+  "vertical_compact_layout": 0,
+  "workbook": "3"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"drbg563g0d\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"itzrifkb\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2quipjnlta\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m18txfd7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 6,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m0i9cq6x\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9ngdm54n4p\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"l8wl49hn\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2pd1vju3d1\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"3n08hk3k\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"aob20bj5v0\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"9iktomj5\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 6,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2osuvgv82v\",\n  \"layout\": {\n   \"h\": 5,\n   \"i\": \"6dg6t3cb\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 18\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fprt6v3fge\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"6tpbaeri\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 23\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ajv5fy0i\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"loadofas\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`company`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`company`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`company`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`company`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`company`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`company`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"cd1qymhv\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`posting_date`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`posting_date`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`transaction_date`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`posting_date`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`posting_date`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`posting_date`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`due_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"10z73oet\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`fiscal_year_label`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`fiscal_year`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`fiscal_year_label`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`fiscal_year`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`fiscal_year`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`fiscal_year_label`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"m4ziwneu\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`internal_customer`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`is_internal_customer`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`is_internal_customer`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`is_internal_customer`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`is_internal_customer`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`is_internal_customer`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "drbg563g0d",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "2quipjnlta",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "0emppepctr",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "9ngdm54n4p",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "2pd1vju3d1",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "aob20bj5v0",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "2osuvgv82v",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "fprt6v3fge",
+    "parent": "cdsmt2emg7",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-08 12:39:04.906354",
+  "name": "cdsmt2emg7",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/cdsmt2emg7-preview.jpeg?ddc6",
+  "read_only": false,
+  "share_link": null,
+  "title": "CFO Dashboard - Sales",
+  "vertical_compact_layout": 0,
+  "workbook": "3"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"3tm81er9bd\",\n  \"layout\": {\n   \"h\": 3,\n   \"i\": \"1geec587\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm8u4e3q2\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"1kpzltkq\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm89ao6t3\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"2mkbxvt3\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 10,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm8ve9cr8\",\n  \"layout\": {\n   \"h\": 11,\n   \"i\": \"b6n952s4\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "3tm81er9bd",
+    "parent": "3tm8lmhslo",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "3tm8u4e3q2",
+    "parent": "3tm8lmhslo",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "3tm89ao6t3",
+    "parent": "3tm8lmhslo",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "3tm8ve9cr8",
+    "parent": "3tm8lmhslo",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-06 16:05:13.712368",
+  "name": "3tm8lmhslo",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/3tm8lmhslo-preview.jpeg?764a",
+  "read_only": false,
+  "share_link": null,
+  "title": "Order Analysis",
+  "vertical_compact_layout": 0,
+  "workbook": "1"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"dzw3vpqj\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"chart\": \"91i7ea61pg\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"dk2jpeey\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"71ikn26vme\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"iz66bb89\",\n   \"moved\": false,\n   \"w\": 7,\n   \"x\": 4,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"52mgc3ce65\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"eznuzk9q\",\n   \"moved\": false,\n   \"w\": 8,\n   \"x\": 8,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"53068nu311\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"y7n2u4u.\",\n   \"moved\": false,\n   \"w\": 8,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"c39184aiec\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"8h1iwa4q\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 10\n  },\n  \"type\": \"chart\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"jl5cfju1\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"52mgc3ce65\": \"`90j4t3fbu0`.`company`\",\n   \"53068nu311\": \"`90j4t3fbu0`.`company`\",\n   \"71ikn26vme\": \"`90j4t3fbu0`.`company`\",\n   \"91i7ea61pg\": \"`90j4t3fbu0`.`company`\",\n   \"c39184aiec\": \"`11ck1b21j8`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Sales Order Entry Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"16a1a8sf\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 3,\n   \"y\": 0\n  },\n  \"links\": {\n   \"52mgc3ce65\": \"`90j4t3fbu0`.`transaction_date`\",\n   \"53068nu311\": \"`90j4t3fbu0`.`transaction_date`\",\n   \"71ikn26vme\": \"`90j4t3fbu0`.`transaction_date`\",\n   \"91i7ea61pg\": \"`90j4t3fbu0`.`transaction_date`\",\n   \"c39184aiec\": \"`11ck1b21j8`.`transaction_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"49tedid9\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 9,\n   \"y\": 0\n  },\n  \"links\": {\n   \"52mgc3ce65\": \"`90j4t3fbu0`.`fiscal_year`\",\n   \"53068nu311\": \"`90j4t3fbu0`.`fiscal_year`\",\n   \"71ikn26vme\": \"`90j4t3fbu0`.`fiscal_year`\",\n   \"91i7ea61pg\": \"`90j4t3fbu0`.`fiscal_year`\",\n   \"c39184aiec\": \"`11ck1b21j8`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Include Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"e81ki4v4\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"52mgc3ce65\": \"`90j4t3fbu0`.`internal_company`\",\n   \"53068nu311\": \"`90j4t3fbu0`.`internal_company`\",\n   \"71ikn26vme\": \"`90j4t3fbu0`.`internal_company`\",\n   \"91i7ea61pg\": \"`90j4t3fbu0`.`internal_company`\",\n   \"c39184aiec\": \"`11ck1b21j8`.`internal_company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Sales Order Delivery Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"4rpi6oa9\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 6,\n   \"y\": 0\n  },\n  \"links\": {\n   \"52mgc3ce65\": \"`90j4t3fbu0`.`delivery_date`\",\n   \"53068nu311\": \"`90j4t3fbu0`.`delivery_date`\",\n   \"71ikn26vme\": \"`90j4t3fbu0`.`delivery_date`\",\n   \"91i7ea61pg\": \"`90j4t3fbu0`.`delivery_date`\",\n   \"c39184aiec\": \"`11ck1b21j8`.`delivery_date`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "91i7ea61pg",
+    "parent": "446sgid3o1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "71ikn26vme",
+    "parent": "446sgid3o1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "52mgc3ce65",
+    "parent": "446sgid3o1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "53068nu311",
+    "parent": "446sgid3o1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "c39184aiec",
+    "parent": "446sgid3o1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-06 17:03:09.171693",
+  "name": "446sgid3o1",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/446sgid3o1-preview.jpeg?b7f1",
+  "read_only": false,
+  "share_link": null,
+  "title": "Sales Order Analysis",
+  "vertical_compact_layout": 0,
+  "workbook": "2"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"et68p4evhm\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"gyon1uyx\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9tqq56tsfu\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"hjl2s9d1\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 10,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7uhnp4bh66\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"9q28d1rl\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 8\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "et68p4evhm",
+    "parent": "9pqlqqpbj3",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "9tqq56tsfu",
+    "parent": "9pqlqqpbj3",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "7uhnp4bh66",
+    "parent": "9pqlqqpbj3",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-05-08 12:32:13.274898",
+  "name": "9pqlqqpbj3",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/9pqlqqpbj3-preview.jpeg?4986",
+  "read_only": false,
+  "share_link": null,
+  "title": "Sales",
+  "vertical_compact_layout": 0,
+  "workbook": "3"
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "chart_type": "Auto",
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2026-05-05 14:55:40.046123",
+  "name": "0afq006ohd",
+  "options": "{\"query\":\"QRY-2220\"}",
+  "public_key": null,
+  "query": "QRY-2220"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2026-05-05 14:55:50.229860",
+  "name": "eb1e7ipo1l",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-2221"
+ }
+]

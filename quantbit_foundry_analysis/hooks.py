@@ -65,8 +65,30 @@ app_license = "mit"
 # }
 
 fixtures = [
-    {"dt": "Insights Workbook"},
-    {"dt": "Insights Data Source"}
+    {
+        "dt": "Insights Workbook",
+    },
+    {
+        "dt": "Insights Query"
+    },
+    {
+        "dt": "Insights Chart"
+    },
+    {
+        "dt": "Insights Dashboard"
+    },
+    {
+        "dt": "Insights Query v3"
+    },
+    {
+        "dt": "Insights Chart v3"
+    },
+    {
+        "dt": "Insights Dashboard v3"
+    },
+    {
+        "dt": "Insights Data Source"
+    }
 ]
 
 # Generators

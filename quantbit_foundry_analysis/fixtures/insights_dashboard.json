@@ -1,0 +1,94 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard",
+  "is_public": 0,
+  "items": [
+   {
+    "item_id": "492171",
+    "item_type": "Filter",
+    "layout": "{\"i\":492171,\"x\":0,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{},\"column\":{},\"label\":\"Company\",\"defaultOperator\":{\"label\":\"equals\",\"value\":\"=\"},\"defaultValue\":{}}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "597110",
+    "item_type": "Filter",
+    "layout": "{\"i\":597110,\"x\":5,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{},\"column\":{},\"label\":\"Date\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "214509",
+    "item_type": "Filter",
+    "layout": "{\"i\":214509,\"x\":10,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{},\"column\":{},\"label\":\"Fiscal Year\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "415207",
+    "item_type": "Filter",
+    "layout": "{\"i\":415207,\"x\":15,\"y\":0,\"w\":5,\"h\":2,\"moved\":false}",
+    "options": "{\"links\":{},\"column\":{},\"label\":\"Include Internal Company\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "929577",
+    "item_type": "Number",
+    "layout": "{\"i\":929577,\"x\":0,\"y\":3,\"w\":4,\"h\":4,\"moved\":false}",
+    "options": "{\"title\":\"Total Order\",\"query\":\"QRY-2220\",\"column\":\"total_weight\",\"shorten\":false,\"decimals\":\"2\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "533864",
+    "item_type": "Number",
+    "layout": "{\"i\":533864,\"x\":4,\"y\":3,\"w\":4,\"h\":4,\"moved\":false}",
+    "options": "{\"title\":\"Sales Order Value\",\"query\":\"QRY-2220\",\"column\":\"base_net_amount\",\"shorten\":false}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "699551",
+    "item_type": "Row",
+    "layout": "{\"i\":699551,\"x\":0,\"y\":7,\"w\":10,\"h\":15,\"moved\":false}",
+    "options": "{\"xAxis\":[{\"column\":\"company\"}],\"yAxis\":[{\"column\":\"base_net_amount\",\"series_options\":{\"type\":\"bar\"}}],\"colors\":[\"#318AD8\",\"#F683AE\",\"#48BB74\",\"#F56B6B\",\"#FACF7A\",\"#44427B\",\"#5FD8C4\",\"#F8814F\",\"#15CCEF\",\"#A6B1B9\"],\"query\":\"QRY-2220\",\"title\":\"Company wise Order Amount Details\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "944405",
+    "item_type": "Row",
+    "layout": "{\"i\":944405,\"x\":10,\"y\":7,\"w\":10,\"h\":15,\"moved\":false}",
+    "options": "{\"xAxis\":[{\"column\":\"company\"}],\"yAxis\":[{\"column\":\"total_weight\",\"series_options\":{\"type\":\"bar\"}}],\"colors\":[\"#318AD8\",\"#F683AE\",\"#48BB74\",\"#F56B6B\",\"#FACF7A\",\"#44427B\",\"#5FD8C4\",\"#F8814F\",\"#15CCEF\",\"#A6B1B9\"],\"query\":\"QRY-2220\",\"title\":\"Company wise Order Quantity Details\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "245121",
+    "item_type": "Row",
+    "layout": "{\"i\":245121,\"x\":0,\"y\":22,\"w\":20,\"h\":13,\"moved\":false}",
+    "options": "{\"xAxis\":[{\"column\":\"company\"}],\"yAxis\":[{\"column\":\"invoiced_total_weight\",\"series_options\":{\"type\":\"bar\"}},{\"column\":\"total_weight\",\"series_options\":{\"type\":\"bar\"}}],\"colors\":[\"#318AD8\",\"#F683AE\",\"#48BB74\",\"#F56B6B\",\"#FACF7A\",\"#44427B\",\"#5FD8C4\",\"#F8814F\",\"#15CCEF\",\"#A6B1B9\"],\"query\":\"QRY-2221\",\"title\":\"Sales Order Invoiced Qty Details\"}",
+    "parent": "DSH-2222",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   }
+  ],
+  "modified": "2026-05-05 15:29:51.836877",
+  "name": "DSH-2222",
+  "public_key": null,
+  "title": "Sales Order Analysis"
+ }
+]

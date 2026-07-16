@@ -112,6 +112,10 @@ fixtures = [
 # before_install = "quantbit_foundry_analysis.install.before_install"
 # after_install = "quantbit_foundry_analysis.install.after_install"
 
+after_migrate = [
+	"quantbit_foundry_analysis.patches.migrate_workbooks.execute"
+]
+
 # Uninstallation
 # ------------
 

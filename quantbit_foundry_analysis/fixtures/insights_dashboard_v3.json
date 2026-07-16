@@ -5,7 +5,7 @@
   "has_workbook_access": true,
   "is_public": 0,
   "is_shared_with_organization": false,
-  "items": "[\n {\n  \"chart\": \"6fec47f0ep\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"anc0xhv0\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0g2vsa84ik\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"ganmjbdw\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"cfp3ui5hhv\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"1mggqjkj\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"4xcksktt\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7b09fl63hk\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"dtn2j5zl\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fc33c78ik1\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"ae8lwr52\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fsknfdvcbt\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"5lzdrnvd\",\n   \"moved\": false,\n   \"w\": 11,\n   \"x\": 5,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"edal9a4e6d\",\n  \"layout\": {\n   \"h\": 10,\n   \"i\": \"1ffucia3\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ja6mqmdk\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"c8xqa3vu\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`company`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`company`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`company`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`company`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`company`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`company`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"3651hqk9\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`posting_date`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`transaction_date`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`posting_date`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`posting_date`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`posting_date`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`posting_date`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`posting_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"qpdhyg6.\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`fiscal_year`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hoch48u7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`is_internal_customer`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`internal_customer`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "items": "[\n {\n  \"chart\": \"6fec47f0ep\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"anc0xhv0\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0g2vsa84ik\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"ganmjbdw\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 4,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"cfp3ui5hhv\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"1mggqjkj\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 9,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"4xcksktt\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 14,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7b09fl63hk\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"dtn2j5zl\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fc33c78ik1\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"ae8lwr52\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fsknfdvcbt\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"5lzdrnvd\",\n   \"moved\": false,\n   \"w\": 11,\n   \"x\": 5,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"edal9a4e6d\",\n  \"layout\": {\n   \"h\": 10,\n   \"i\": \"1ffucia3\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ja6mqmdk\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 3\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"c8xqa3vu\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`company`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`company`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`company`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`company`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`company`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`company`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"qpdhyg6.\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`fiscal_year`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hoch48u7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`is_internal_customer`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`internal_customer`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"5k40kcdc\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"0g2vsa84ik\": \"`c99kaq9sit`.`posting_date`\",\n   \"6fec47f0ep\": \"`b9fr8focfa`.`transaction_date`\",\n   \"7b09fl63hk\": \"`c99kaq9sit`.`posting_date`\",\n   \"cfp3ui5hhv\": \"`c99kaq9sit`.`posting_date`\",\n   \"edal9a4e6d\": \"`27ujoorp2b`.`posting_date`\",\n   \"fc33c78ik1\": \"`c99kaq9sit`.`posting_date`\",\n   \"fsknfdvcbt\": \"`c99kaq9sit`.`posting_date`\"\n  },\n  \"type\": \"filter\"\n }\n]",
   "linked_charts": [
    {
     "chart": "6fec47f0ep",
@@ -56,11 +56,11 @@
     "parenttype": "Insights Dashboard v3"
    }
   ],
-  "modified": "2026-05-08 12:00:04.446920",
+  "modified": "2026-07-15 15:18:53.245660",
   "name": "a0k493n7g1",
   "old_name": null,
   "people_with_access": [],
-  "preview_image": "/private/files/a0k493n7g1-preview.jpeg?2c24",
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?46d3",
   "read_only": false,
   "share_link": null,
   "title": "CEO Dashboard - Sales",
@@ -147,7 +147,99 @@
   "has_workbook_access": true,
   "is_public": 0,
   "is_shared_with_organization": false,
-  "items": "[\n {\n  \"chart\": \"drbg563g0d\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"itzrifkb\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2quipjnlta\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m18txfd7\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 6,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m0i9cq6x\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9ngdm54n4p\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"l8wl49hn\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2pd1vju3d1\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"3n08hk3k\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"aob20bj5v0\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"9iktomj5\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 6,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2osuvgv82v\",\n  \"layout\": {\n   \"h\": 5,\n   \"i\": \"6dg6t3cb\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 18\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fprt6v3fge\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"6tpbaeri\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 23\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ajv5fy0i\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"loadofas\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`company`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`company`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`company`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`company`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`company`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`company`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"cd1qymhv\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`posting_date`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`posting_date`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`transaction_date`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`posting_date`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`posting_date`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`posting_date`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`due_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"10z73oet\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`fiscal_year_label`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`fiscal_year`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`fiscal_year_label`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`fiscal_year`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`fiscal_year`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`fiscal_year_label`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"m4ziwneu\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`internal_customer`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`is_internal_customer`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`is_internal_customer`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`is_internal_customer`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`is_internal_customer`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`is_internal_customer`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
+  "items": "[\n {\n  \"filter_name\": \"From Date \",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"aq0ti3cc\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Heat Date`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Heat Date`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Heat Date`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"To Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hynkmfoe\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Heat Date`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Heat Date`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Heat Date`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Heat Date`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Operator\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"fjzm9phs\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 11,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Operator`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Operator`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Operator`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Operator`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Operator`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Operator`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Operator`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Operator`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Operator`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Operator`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Operator`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Operator`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Supervisor \",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"megy8kxl\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 14,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Supervisor`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Supervisor`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Supervisor`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Supervisor`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Supervisor`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Supervisor`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Supervisor`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Shift\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ldya91su\",\n   \"moved\": false,\n   \"w\": 3,\n   \"x\": 17,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Shift`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Shift`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Shift`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Shift`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Shift`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Shift`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Shift`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Shift`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Shift`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Shift`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Shift`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Shift`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"11iliul4bj\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"e2ah6eax\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"ai90fj3qmh\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"2wyruf4j\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 5,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hyux234b\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"11iliul4bj\": \"`79jjrlkdv2`.`Company`\",\n   \"ai90fj3qmh\": \"`79jjrlkdv2`.`Company`\",\n   \"erul7f1l31\": \"`79jjrlkdv2`.`Company`\",\n   \"g2lmlpphsr\": \"`79jjrlkdv2`.`Company`\",\n   \"g68e8p7k8l\": \"`ag2guo16se`.`Company`\",\n   \"jcogn74fl0\": \"`79jjrlkdv2`.`Company`\",\n   \"le7mc95rdb\": \"`79jjrlkdv2`.`Company`\",\n   \"nb5c56inkt\": \"`25gg5asn02`.`Company`\",\n   \"q9nhdcfgk3\": \"`pgugts01q0`.`Company`\",\n   \"qmf3ha5vaj\": \"`m5rnd0mt33`.`Company`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Company`\",\n   \"tt7acbfq67\": \"`79jjrlkdv2`.`Company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"erul7f1l31\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"cwytuvfe\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 10,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"jcogn74fl0\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"e2dqfxmj\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 5\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"le7mc95rdb\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"us1wnht.\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 5,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"tt7acbfq67\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"fetlso8t\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 10,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"snbb5v6cr7\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"l0492asg\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 29\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"nb5c56inkt\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"8i4j29jk\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 14\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"q9nhdcfgk3\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"heuehxq4\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 7\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"g2lmlpphsr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"8kht8j1f\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"qmf3ha5vaj\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"b1sqrnit\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 22\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"g68e8p7k8l\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"673elwyr\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 5,\n   \"y\": 5\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "11iliul4bj",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "ai90fj3qmh",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "erul7f1l31",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "jcogn74fl0",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "le7mc95rdb",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "tt7acbfq67",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "snbb5v6cr7",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "nb5c56inkt",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "q9nhdcfgk3",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "g2lmlpphsr",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "qmf3ha5vaj",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "g68e8p7k8l",
+    "parent": "pjsqsrp2t1",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-07-15 15:05:26.013317",
+  "name": "pjsqsrp2t1",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?93f6",
+  "read_only": false,
+  "share_link": null,
+  "title": "Melting Dashboard",
+  "vertical_compact_layout": 0,
+  "workbook": "4"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"drbg563g0d\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"itzrifkb\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 0,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2quipjnlta\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m18txfd7\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 5,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"0emppepctr\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"m0i9cq6x\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 11,\n   \"y\": 2\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9ngdm54n4p\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"l8wl49hn\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 4\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2pd1vju3d1\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"3n08hk3k\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"aob20bj5v0\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"9iktomj5\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 6,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"2osuvgv82v\",\n  \"layout\": {\n   \"h\": 5,\n   \"i\": \"6dg6t3cb\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 18\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"fprt6v3fge\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"6tpbaeri\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 23\n  },\n  \"type\": \"chart\"\n },\n {\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ajv5fy0i\",\n   \"moved\": false,\n   \"w\": 16,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"text\": \"<p>Charts</p>\",\n  \"type\": \"text\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"loadofas\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`company`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`company`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`company`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`company`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`company`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`company`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`company`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"default_operator\": \"between\",\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"cd1qymhv\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`posting_date`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`posting_date`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`posting_date`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`transaction_date`\",\n   \"9ngdm54n4p\": \"`759h38n6ci`.`posting_date`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`posting_date`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`posting_date`\",\n   \"fprt6v3fge\": \"`8601cmmrg3`.`due_date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"10z73oet\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`fiscal_year`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`fiscal_year`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`fiscal_year_label`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`fiscal_year`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`fiscal_year_label`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`fiscal_year`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`fiscal_year`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`fiscal_year_label`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"m4ziwneu\",\n   \"moved\": false,\n   \"w\": 5,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"0emppepctr\": \"`c99kaq9sit`.`is_internal_customer`\",\n   \"2osuvgv82v\": \"`27ujoorp2b`.`internal_customer`\",\n   \"2pd1vju3d1\": \"`68nb1njmpo`.`is_internal_customer`\",\n   \"2quipjnlta\": \"`09o8gc8vfp`.`is_internal_customer`\",\n   \"9ngdm54n4p\": \"`192pq6efrb`.`is_internal_customer`\",\n   \"aob20bj5v0\": \"`03vhahjhqm`.`is_internal_customer`\",\n   \"drbg563g0d\": \"`b9vrkc8pqo`.`is_internal_customer`\",\n   \"fprt6v3fge\": \"`68hm2jhg8f`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n }\n]",
   "linked_charts": [
    {
     "chart": "drbg563g0d",
@@ -198,60 +290,16 @@
     "parenttype": "Insights Dashboard v3"
    }
   ],
-  "modified": "2026-05-08 12:39:04.906354",
+  "modified": "2026-07-14 16:58:48.302157",
   "name": "cdsmt2emg7",
   "old_name": null,
   "people_with_access": [],
-  "preview_image": "/private/files/cdsmt2emg7-preview.jpeg?ddc6",
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?93e9",
   "read_only": false,
   "share_link": null,
   "title": "CFO Dashboard - Sales",
   "vertical_compact_layout": 0,
   "workbook": "3"
- },
- {
-  "docstatus": 0,
-  "doctype": "Insights Dashboard v3",
-  "has_workbook_access": true,
-  "is_public": 0,
-  "is_shared_with_organization": false,
-  "items": "[\n {\n  \"chart\": \"3tm81er9bd\",\n  \"layout\": {\n   \"h\": 3,\n   \"i\": \"1geec587\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm8u4e3q2\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"1kpzltkq\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm89ao6t3\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"2mkbxvt3\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 10,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"3tm8ve9cr8\",\n  \"layout\": {\n   \"h\": 11,\n   \"i\": \"b6n952s4\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 11\n  },\n  \"type\": \"chart\"\n }\n]",
-  "linked_charts": [
-   {
-    "chart": "3tm81er9bd",
-    "parent": "3tm8lmhslo",
-    "parentfield": "linked_charts",
-    "parenttype": "Insights Dashboard v3"
-   },
-   {
-    "chart": "3tm8u4e3q2",
-    "parent": "3tm8lmhslo",
-    "parentfield": "linked_charts",
-    "parenttype": "Insights Dashboard v3"
-   },
-   {
-    "chart": "3tm89ao6t3",
-    "parent": "3tm8lmhslo",
-    "parentfield": "linked_charts",
-    "parenttype": "Insights Dashboard v3"
-   },
-   {
-    "chart": "3tm8ve9cr8",
-    "parent": "3tm8lmhslo",
-    "parentfield": "linked_charts",
-    "parenttype": "Insights Dashboard v3"
-   }
-  ],
-  "modified": "2026-05-06 16:05:13.712368",
-  "name": "3tm8lmhslo",
-  "old_name": null,
-  "people_with_access": [],
-  "preview_image": "/private/files/3tm8lmhslo-preview.jpeg?764a",
-  "read_only": false,
-  "share_link": null,
-  "title": "Order Analysis",
-  "vertical_compact_layout": 0,
-  "workbook": "1"
  },
  {
   "docstatus": 0,
@@ -309,7 +357,157 @@
   "has_workbook_access": true,
   "is_public": 0,
   "is_shared_with_organization": false,
-  "items": "[\n {\n  \"chart\": \"et68p4evhm\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"gyon1uyx\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9tqq56tsfu\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"hjl2s9d1\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 10,\n   \"y\": 0\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7uhnp4bh66\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"9q28d1rl\",\n   \"moved\": false,\n   \"w\": 10,\n   \"x\": 0,\n   \"y\": 8\n  },\n  \"type\": \"chart\"\n }\n]",
+  "items": "[\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"cvciji9e\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Company`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Company`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Company`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"bup5kqntk9\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"gmj8ukou\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 3\n  },\n  \"type\": \"chart\"\n },\n {\n  \"filter_name\": \"Operator\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"46ne6cjf\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Operator`\",\n   \"7ltohhc6hp\": \"`79jjrlkdv2`.`Operator`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Operator`\",\n   \"kierj076p2\": \"`8ep5bpjhq0`.`Operator`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Operator`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Operator`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"nustc1cjj4\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"c69dmbe9\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 10\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"snbb5v6cr7\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"cuddldvl\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"33t9e00fj6\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"bs3pmw23\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 23\n  },\n  \"type\": \"chart\"\n },\n {\n  \"default_operator\": \"=\",\n  \"default_value\": \"2026-07-15\",\n  \"filter_name\": \"From Date \",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"1mfvlrr1\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Heat Date`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"To Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"jfzwq7ww\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Heat Date`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"7ltohhc6hp\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"80dy5mft\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"kierj076p2\",\n  \"layout\": {\n   \"h\": 2,\n   \"i\": \"lf31wu3k\",\n   \"moved\": false,\n   \"w\": 6,\n   \"x\": 6,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "bup5kqntk9",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "nustc1cjj4",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "snbb5v6cr7",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "33t9e00fj6",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "7ltohhc6hp",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "kierj076p2",
+    "parent": "giq80ha44s",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-07-15 10:43:51.049088",
+  "name": "giq80ha44s",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?4ebf",
+  "read_only": false,
+  "share_link": null,
+  "title": "Foundry  Operator ",
+  "vertical_compact_layout": 0,
+  "workbook": "4"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"bup5kqntk9\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"4swxpr9b\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"nustc1cjj4\",\n  \"layout\": {\n   \"h\": 6,\n   \"i\": \"7tg9bqdt\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 8\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"snbb5v6cr7\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"g271cfvl\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 14\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"33t9e00fj6\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"80w4vghl\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 21\n  },\n  \"type\": \"chart\"\n },\n {\n  \"filter_name\": \"From Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"1g7tfu4v\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Heat Date`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"To Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"430syrai\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Heat Date`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Heat Date`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"vfqhevs.\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Company`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Company`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Company`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Supervisor\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"1edv769s\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"33t9e00fj6\": \"`25gg5asn02`.`Supervisor`\",\n   \"bup5kqntk9\": \"`8ep5bpjhq0`.`Supervisor`\",\n   \"nustc1cjj4\": \"`8ep5bpjhq0`.`Supervisor`\",\n   \"snbb5v6cr7\": \"`pgugts01q0`.`Supervisor`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"2umldsghh2\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"21rvk1w6\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 28\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"4rm6g8j0sj\",\n  \"layout\": {\n   \"h\": 7,\n   \"i\": \"babtoctt\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 36\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "bup5kqntk9",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "nustc1cjj4",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "snbb5v6cr7",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "33t9e00fj6",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "2umldsghh2",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "4rm6g8j0sj",
+    "parent": "ah1pnpojqa",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-07-14 18:43:23.899957",
+  "name": "ah1pnpojqa",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?2fa7",
+  "read_only": false,
+  "share_link": null,
+  "title": "Foundry Supervisor ",
+  "vertical_compact_layout": 0,
+  "workbook": "4"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"filter_name\": \"Company \",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"82jy0gqs\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"agfuna92vl\": \"`la8iekrebs`.`Company`\",\n   \"b0v7ns9rjn\": \"`88lun885rh`.`Company`\",\n   \"k2k65861l4\": \"`j0ushf0ctv`.`Company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Shift\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"apsx7x5p\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"agfuna92vl\": \"`la8iekrebs`.`Shift`\",\n   \"b0v7ns9rjn\": \"`88lun885rh`.`Shift`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"2umldsghh2\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"f94pbkrh\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"4rm6g8j0sj\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"iwbus136\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 9\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"85jh3o4a8v\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"900jr2st\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n }\n]",
+  "linked_charts": [
+   {
+    "chart": "2umldsghh2",
+    "parent": "gr126g548t",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "4rm6g8j0sj",
+    "parent": "gr126g548t",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "85jh3o4a8v",
+    "parent": "gr126g548t",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
+   }
+  ],
+  "modified": "2026-07-15 17:32:37.829159",
+  "name": "gr126g548t",
+  "old_name": null,
+  "people_with_access": [],
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?e0cb",
+  "read_only": false,
+  "share_link": null,
+  "title": "Foundry Quality ",
+  "vertical_compact_layout": 0,
+  "workbook": "4"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Insights Dashboard v3",
+  "has_workbook_access": true,
+  "is_public": 0,
+  "is_shared_with_organization": false,
+  "items": "[\n {\n  \"chart\": \"et68p4evhm\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"gyon1uyx\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 1\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"9tqq56tsfu\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"hjl2s9d1\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 9\n  },\n  \"type\": \"chart\"\n },\n {\n  \"chart\": \"7uhnp4bh66\",\n  \"layout\": {\n   \"h\": 9,\n   \"i\": \"9q28d1rl\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 17\n  },\n  \"type\": \"chart\"\n },\n {\n  \"filter_name\": \"Date\",\n  \"filter_type\": \"Date\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"7qtwuux6\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 4,\n   \"y\": 0\n  },\n  \"links\": {\n   \"7uhnp4bh66\": \"`9amnr7l3o0`.`Heat Date`\",\n   \"9tqq56tsfu\": \"`dahdfu1l4r`.`Heat Date`\",\n   \"bevvbtegun\": \"`bgq246rl3h`.`Date`\",\n   \"et68p4evhm\": \"`ca73l2cv7h`.`Heat Date`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Fiscal Year\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"ajv7z3cz\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 8,\n   \"y\": 0\n  },\n  \"links\": {\n   \"7uhnp4bh66\": \"`9amnr7l3o0`.`fiscal_year`\",\n   \"9tqq56tsfu\": \"`dahdfu1l4r`.`fiscal_year`\",\n   \"bevvbtegun\": \"`bgq246rl3h`.`Fiscal Year`\",\n   \"et68p4evhm\": \"`ca73l2cv7h`.`fiscal_year`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Exclude Internal Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"88az3ryq\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 12,\n   \"y\": 0\n  },\n  \"links\": {\n   \"bevvbtegun\": \"`bgq246rl3h`.`is_internal_customer`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"filter_name\": \"Company\",\n  \"filter_type\": \"String\",\n  \"layout\": {\n   \"h\": 1,\n   \"i\": \"hlppgthr\",\n   \"moved\": false,\n   \"w\": 4,\n   \"x\": 0,\n   \"y\": 0\n  },\n  \"links\": {\n   \"bevvbtegun\": \"`bgq246rl3h`.`company`\"\n  },\n  \"type\": \"filter\"\n },\n {\n  \"chart\": \"bevvbtegun\",\n  \"layout\": {\n   \"h\": 8,\n   \"i\": \"9fi2r7m2\",\n   \"moved\": false,\n   \"w\": 20,\n   \"x\": 0,\n   \"y\": 26\n  },\n  \"type\": \"chart\"\n }\n]",
   "linked_charts": [
    {
     "chart": "et68p4evhm",
@@ -328,13 +526,19 @@
     "parent": "9pqlqqpbj3",
     "parentfield": "linked_charts",
     "parenttype": "Insights Dashboard v3"
+   },
+   {
+    "chart": "bevvbtegun",
+    "parent": "9pqlqqpbj3",
+    "parentfield": "linked_charts",
+    "parenttype": "Insights Dashboard v3"
    }
   ],
-  "modified": "2026-05-08 12:32:13.274898",
+  "modified": "2026-07-15 16:38:20.276653",
   "name": "9pqlqqpbj3",
   "old_name": null,
   "people_with_access": [],
-  "preview_image": "/private/files/9pqlqqpbj3-preview.jpeg?4986",
+  "preview_image": "/private/files/giq80ha44s-preview.jpeg?0e1d",
   "read_only": false,
   "share_link": null,
   "title": "Sales",

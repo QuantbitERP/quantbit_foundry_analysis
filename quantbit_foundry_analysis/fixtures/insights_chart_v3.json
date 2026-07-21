@@ -528,7 +528,7 @@
  },
  {
   "chart_type": "Row",
-  "config": "{\n \"filters\": {\n  \"filters\": [],\n  \"logical_operator\": \"And\"\n },\n \"limit\": 100,\n \"order_by\": [],\n \"x_axis\": {\n  \"dimension\": {\n   \"column_name\": \"Casting Item Name\",\n   \"data_type\": \"String\",\n   \"dimension_name\": \"Casting Item Name\",\n   \"label\": \"Casting Item Name\",\n   \"value\": \"Casting Item Name\"\n  }\n },\n \"y_axis\": {\n  \"series\": [\n   {\n    \"measure\": {\n     \"aggregation\": \"sum\",\n     \"column_name\": \"Total Foundry Weight\",\n     \"data_type\": \"Decimal\",\n     \"measure_name\": \"sum_of_Total Foundry Weight\"\n    }\n   }\n  ],\n  \"stack\": false\n }\n}",
+  "config": "{\n \"filters\": {\n  \"filters\": [],\n  \"logical_operator\": \"And\"\n },\n \"limit\": \"5\",\n \"order_by\": [],\n \"x_axis\": {\n  \"dimension\": {\n   \"column_name\": \"Casting Item Name\",\n   \"data_type\": \"String\",\n   \"dimension_name\": \"Casting Item Name\",\n   \"label\": \"Casting Item Name\",\n   \"value\": \"Casting Item Name\"\n  }\n },\n \"y_axis\": {\n  \"series\": [\n   {\n    \"measure\": {\n     \"aggregation\": \"sum\",\n     \"column_name\": \"Total Foundry Weight\",\n     \"data_type\": \"Decimal\",\n     \"measure_name\": \"sum_of_Total Foundry Weight\"\n    }\n   }\n  ],\n  \"stack\": false\n }\n}",
   "data_query": "qmfnvilunq",
   "docstatus": 0,
   "doctype": "Insights Chart v3",

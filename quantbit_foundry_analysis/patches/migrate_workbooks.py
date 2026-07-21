@@ -1,10 +1,12 @@
 import frappe
 
+
 def execute():
 	workbooks_data = [
 		{"id": "2", "title": "Sales Order Analysis"},
 		{"id": "3", "title": "Sales Workbook"},
-		{"id": "4", "title": "Foundry Production"}
+		{"id": "4", "title": "Foundry Production"},
+		{"id": "6", "title": "Machining Shop Analysis"}
 	]
 
 	doctypes_to_update = [
@@ -16,38 +18,26 @@ def execute():
 		wb_id = wb["id"]
 		wb_title = wb["title"]
 
-		# 1. Check if an Insights Workbook with the target ID exists
 		if not frappe.db.exists("Insights Workbook", wb_id):
-			# If it does not exist, create it with target ID and title via raw SQL
 			frappe.db.sql(f"""
 				INSERT INTO `tabInsights Workbook` (name, title, creation, modified, modified_by, owner, docstatus)
 				VALUES ('{wb_id}', '{wb_title}', NOW(), NOW(), 'Administrator', 'Administrator', 0)
 			""")
 		else:
-			# Ensure the title is correct if it exists
 			frappe.db.set_value("Insights Workbook", wb_id, "title", wb_title)
 
-		# Fetch all workbooks that have the target title
-		workbooks_with_title = frappe.get_all(
-			"Insights Workbook", 
-			filters={"title": wb_title}, 
-			pluck="name"
-		)
-
+		workbooks_with_title = frappe.get_all("Insights Workbook", filters={"title": wb_title}, pluck="name")
+		
 		for old_wb_id in workbooks_with_title:
 			if str(old_wb_id) != str(wb_id):
-				# Move all charts/queries/dashboards from old_wb_id to wb_id
 				for doctype in doctypes_to_update:
 					if frappe.db.exists("DocType", doctype):
-						# Check if the doctype actually has the workbook field
 						if frappe.get_meta(doctype).has_field("workbook"):
 							records = frappe.get_all(doctype, filters={"workbook": old_wb_id}, pluck="name")
 							for rec in records:
 								frappe.db.set_value(doctype, rec, "workbook", wb_id)
 
-				# Delete the old workbook
 				try:
 					frappe.delete_doc("Insights Workbook", old_wb_id, ignore_permissions=True, force=True)
 				except Exception:
-					# Log if there are any reference errors or other issues preventing deletion
 					frappe.log_error(f"Failed to delete Insights Workbook {old_wb_id}", "quantbit_foundry_analysis migration")

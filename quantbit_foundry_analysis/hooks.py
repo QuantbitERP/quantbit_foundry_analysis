@@ -94,6 +94,12 @@ fixtures = [
         "filters": [
             ["module", "=", "Quantbit Foundry Analysis"]
         ]
+    },
+    {
+        "dt": "Workspace",
+        "filters": [
+            ["name", "in", ["FOUNDRY"]]
+        ]
     }
 ]
 

@@ -88,6 +88,18 @@ fixtures = [
     },
     {
         "dt": "Insights Data Source"
+    },
+    {
+        "dt": "Web Page",
+        "filters": [
+            ["module", "=", "Quantbit Foundry Analysis"]
+        ]
+    },
+    {
+        "dt": "Workspace",
+        "filters": [
+            ["name", "in", ["FOUNDRY"]]
+        ]
     }
 ]
 
